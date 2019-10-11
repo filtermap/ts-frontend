@@ -1,4 +1,4 @@
-# ts-frontend
+# ts-physics
 
 ## install
 
